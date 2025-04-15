@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'core',
     'risk_assessment',
     'project_management',
+    'audit',
 ]
 
 MIDDLEWARE = [
